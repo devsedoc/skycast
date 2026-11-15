@@ -3,9 +3,7 @@
 A single-page weather app built with **Vite + React + TypeScript**, using the free
 [Open-Meteo](https://open-meteo.com/) Geocoding and Forecast APIs (no API key required).
 
-<!-- Screenshot placeholder: replace with a real capture, e.g. docs/screenshot.png -->
 
-![Skycast screenshot placeholder](docs/screenshot.png)
 
 ## Features
 
